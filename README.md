@@ -1,6 +1,6 @@
 # grant-privacy
 
-그랜트핏(GrantFit, `kr.co.sedoli.grantadvisor`) 개인정보처리방침 호스팅 레포.
+AI 창업비서(`kr.co.sedoli.grantadvisor`) 개인정보처리방침 호스팅 레포.
 
 GitHub Pages 공개 URL: https://sedongcheon.github.io/grant-privacy/
 
